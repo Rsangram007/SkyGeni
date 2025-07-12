@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:4000/api';
+const API_URL = 'https://skygeni-2h7i.onrender.com/api';
 
 export const fetchData = async (endpoint) => {
   try {
